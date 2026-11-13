@@ -1,0 +1,8 @@
+{
+  "name": "আল-কুরআন | Al-Quran Bangla",
+  "description": "পবিত্র কুরআনুল কারীম — আরবি তিলাওয়াত, বাংলা উচ্চারণ, বাংলা অর্থ এবং অডিও প্লেয়ার।",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
